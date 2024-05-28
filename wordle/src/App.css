@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.boxs {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  background-color: #ccc;
+  font-size: 50px;
+  color: #000;
+  font-weight: bold;
+}
+
+.correct {
+  background-color: #91ad70;
+}
+
+.include {
+  background-color: #e2943b;
+}
